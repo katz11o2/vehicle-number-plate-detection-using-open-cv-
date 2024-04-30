@@ -1,0 +1,20 @@
+Hi guys,
+
+My name is Thiruvenkat I am Pursuing my undergraduate degree in AI&ML.
+
+I have used open CV techniques to create this project 
+
+This model recognizes the vehicle number plate with 90% accuracy and displays that the number plate is detected on the screen,
+
+This model can be implemented in real life to find theft vehicles in India and also for automatic booking cases against illegal violations of traffic rules!
+
+I am currently working on this project to increase its accuracy and its applications as well!
+
+Feel free to connect with me through LinkedIn::)
+
+https://www.linkedin.com/in/thiru-venkat-r-748328251/
+
+
+
+
+
